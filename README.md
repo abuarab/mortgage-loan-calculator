@@ -30,7 +30,7 @@ A web application for managing loans and calculating amortization schedules with
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/loan-management-system.git
+   https://github.com/abuarab/mortgage-loan-calculator.git
 
 2. Install project dependencies using Composer:
 
